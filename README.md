@@ -8,6 +8,7 @@ The platform brings students, coordinators, and administrators together on a sin
 https://nnrg-event-hub.lovable.app
 
 📌 Overview
+
 NNRS Event Hub is designed to bring people together through events. Whether you’re hosting workshops, meetups, competitions, webinars, or social gatherings, this platform makes it simple, beautiful, and fun to connect organizers with attendees.
 
 With an elegant UI and smart event organization, users can easily:
